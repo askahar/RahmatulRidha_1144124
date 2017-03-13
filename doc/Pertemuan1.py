@@ -1,6 +1,6 @@
-a = 65;
-b = 15;
-c = 4;
+a = 45;
+b = 25;
+c = 2;
 d = 1;
 
 e = a + b
@@ -19,7 +19,7 @@ print (nama)
 print (npm)
 print (kelas)
 print ()
-print ("Input - (Enam Lima + Lima Belas) x (Empat / Satu)")
+print ("Input - (Empat Lima + Dua Lima) x (Dua / Satu)")
 print ("(", a, "+", b,")", "x", "(", c, "/", d,")")
 print ("Hasil : ", g)
 totalTime = format((time.time() - start_time), '.5f')
